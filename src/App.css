@@ -1,0 +1,185 @@
+@import url("https://fonts.googleapis.com/css2?family=Sora&display=swap");
+
+* {
+    font-family: 'Sora', 'sans-serif';
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.zoom-box {
+    cursor: pointer;
+    transition: transform .2s;
+ }
+  
+.zoom-box:hover {
+    transform: scale(1.1);
+}
+
+.gray{
+    filter: grayscale(100%);
+    cursor: default;
+}
+
+.black{
+    filter: brightness(10%)
+}
+
+.filter-gray{
+    filter: invert(93%) sepia(2%) saturate(12%) hue-rotate(2deg) brightness(92%) contrast(78%);
+}
+
+.buttonClick{
+    cursor: pointer;
+}
+
+.dashed{
+    filter: invert(89%) sepia(91%) saturate(5608%) hue-rotate(157deg) brightness(101%) contrast(91%);
+}
+
+.flipped{
+    transform: rotate(20deg) scaleX(-1);
+}
+
+
+.floating { 
+    animation-name: floating;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+}
+ 
+@keyframes floating {
+    0% { transform: translate(0,  0px); }
+    50%  { transform: translate(0, 15px); }
+    100%   { transform: translate(0, -0px); }   
+}
+
+.equipButton{
+    position: absolute;
+    top: 90%;
+    left: 9%;
+    width: 20%;
+    height: 10%;
+    transform: translate(-50%, -50%);
+    align-items: center;
+    text-align: center;
+}
+
+.equipButton:disabled{
+    all: unset;
+}
+
+.lockOverlay{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 10;
+    color: white;
+    font-size: 5vw;
+}
+
+.brighten{
+    filter: brightness(100%)
+}
+
+.shieldStyle0{
+    width: 85%;
+}
+
+.shieldStyle1{
+    margin-top: 7%;
+    width: 60%;
+}
+
+.shieldStyle2{
+    margin-top: 4%;
+    width: 50%;
+}
+
+.shieldStyle3{
+    margin-top: 9%;
+    width: 65%;
+}
+
+.shieldStyle4{
+    margin-top: 9%;
+    width: 50%;
+}
+
+.planetStyle0{
+    height: 12vw;
+    position: relative;
+    left: 7vw;
+    top: 15vw;
+}
+
+.planetStyle1{
+    height: 12vw;
+    position: relative;
+    left: 7vw;
+    top: 15vw;
+}
+
+.planetStyle2{
+    height: 10vw;
+    position: relative;
+    left: 6.2vw;
+    top: 16.2vw;
+}
+
+.planetStyle3{
+    height: 9vw;
+    position: relative;
+    left: 5vw;
+    top: 17.3vw;
+}
+
+.activePlanetText0{
+    transform: translate(7vw, 14.5vw);
+}
+
+.activePlanetText1{
+    transform: translate(7vw, 14.5vw);
+}
+
+.activePlanetText2{
+    transform: translate(6.7vw, 16vw);
+}
+
+.activePlanetText3{
+    transform: translate(5vw, 17vw);
+}
+
+.lockedPlanetText0{
+    transform: translate(6.5vw, 14.5vw);
+}
+
+.lockedPlanetText1{
+    transform: translate(6.5vw, 14.5vw);
+}
+
+.lockedPlanetText2{
+    transform: translate(5.8vw, 16vw);
+}
+
+.lockedPlanetText3{
+    transform: translate(4.7vw, 17vw);
+}
+
+.quizText0{
+    transform: translate(7vw, 15vw);
+}
+
+.quizText1{
+    transform: translate(7vw, 15vw);
+}
+
+.quizText2{
+    transform: translate(6.7vw, 16vw);
+}
+
+.quizText3{
+    transform: translate(5.3vw, 17vw);
+}
