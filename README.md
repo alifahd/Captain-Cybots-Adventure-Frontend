@@ -1,2 +1,16 @@
 # Captain-Cybots-Adventure-Frontend
-Web Game to Teach Kids About Cyber Security Concepts (Frontend)
+Captain Cybot's Adventure is a Web Game meant to teach kids about cyber security concepts in a fun and interactive way!
+![image](https://github.com/user-attachments/assets/4ddb077f-dc53-4922-8ac0-8a425b05b292)
+![image](https://github.com/user-attachments/assets/14deb94b-eb2d-4960-8161-80fb65b60631)
+![image](https://github.com/user-attachments/assets/b2b3ec29-cb10-4869-b9a4-8bc22c6f954a)
+![image](https://github.com/user-attachments/assets/75739676-de9f-4390-83d2-fa05e27830c3)
+![image](https://github.com/user-attachments/assets/4d7d20a1-95bf-48a8-9f7e-a18947c38150)
+![image](https://github.com/user-attachments/assets/eb9be1b9-8cfe-4e26-92be-42964f14774a)
+![image](https://github.com/user-attachments/assets/106f34c2-357f-4977-9673-66df3d1b67ee)
+![image](https://github.com/user-attachments/assets/6650fb37-66f1-4c37-bfa7-12fee48775b0)
+![image](https://github.com/user-attachments/assets/a206885f-7782-4fcd-8756-32d7d620ff39)
+![image](https://github.com/user-attachments/assets/454d0294-4497-43a6-af31-59a99f7621b0)
+![image](https://github.com/user-attachments/assets/459b2664-1a3d-44c9-8d1b-c2625c5226af)
+![image](https://github.com/user-attachments/assets/cb49eb6c-8b1f-49fe-8a71-15774eb42572)
+![image](https://github.com/user-attachments/assets/0f2257f4-31d6-4e78-9f0f-e2cb1f71aaa0)
+![image](https://github.com/user-attachments/assets/c41d3e24-9991-4142-bab8-0493488a2b6b)
