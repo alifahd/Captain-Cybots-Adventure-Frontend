@@ -1,5 +1,5 @@
 # Captain-Cybots-Adventure-Frontend
-Captain Cybot's Adventure is a Web Game meant to teach kids about cyber security concepts in a fun and interactive way!
+Captain Cybot's Adventure is a web game meant to teach kids about cyber security concepts in a fun and interactive way!
 ![image](https://github.com/user-attachments/assets/ada8f9fc-6093-4338-9908-2fb8d2994095)
 ![image](https://github.com/user-attachments/assets/d9751fe3-c20f-4649-af85-8ab1f6990c1f)
 ![image](https://github.com/user-attachments/assets/4325a4d2-37cd-4856-a209-a8f312d59b07)
